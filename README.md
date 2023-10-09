@@ -1,3 +1,6 @@
+# Instructions
+- You'll need a local server and a database in order to run these projects. Once you get this, you can run "composer install" and then "php artisan serve" inside the project folder.
+
 ## Template for Any Project
 - [GitHub Repository](https://github.com/WellyngtonMolinari/laravelTemplate)
 
