@@ -1,5 +1,8 @@
-# How to run
-- You'll need a local server and a database in order to run these projects. Once you get this, you can run "composer install", "php artisan migrate" and "php artisan serve" inside the project folder.
+# How to Run
+- You'll need a local server and a database to run these projects. Once you have those, follow these steps:
+  - Run `composer install` inside the project folder.
+  - Run `php artisan migrate` to migrate the database.
+  - Finally, run `php artisan serve` to start the local server.
 
 ## Template for Any Project
 - [GitHub Repository](https://github.com/WellyngtonMolinari/laravelTemplate)
