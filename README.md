@@ -11,11 +11,12 @@
 - [Car Dealership](#car-dealership)
 - [Point of Sale](#point-of-sale)
 
-## Car Dealership
+### Car Dealership
 - [GitHub Repository](https://github.com/WellyngtonMolinari/laravel-car-dealership)
 - This is a Web App to expose a car dealership business. You can show your cars to sell, how your business works and so much more.
 - Images (Work in Progress)
 
-## Point of Sale
+### Point of Sale
 - [GitHub Repository](https://github.com/WellyngtonMolinari/laravel-point-of-sale)
 - This is a Web App to control your commerce, with inventory management, sell products, factory production and so much more.
+- Images (Work in Progress)
